@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 陪伴学习"
+  short_description: "基于真实资料建立知识地图、场景类比并进行费曼检验"
+  default_prompt: "使用 $ai-learning-companion 根据我的学习资料陪我完成一次结构化学习。"
